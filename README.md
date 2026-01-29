@@ -1,5 +1,4 @@
 <!-- Animated Header -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bryan+Sigaran;Software+Developer;Web+Engineer;Athlete+%7C+Programmer;Builder+of+Digital+Solutions" alt="Typing SVG" />
 </p>
@@ -13,33 +12,30 @@
 
 ## 🚀 About Me
 
-I’m a **23-year-old software developer** and graduate from **Linköping University** with a **Bachelor’s degree in Programming**.
-I live in the intersection of **discipline, creativity, and engineering** — balancing life as both an **athlete** and a **programmer**.
+I’m a **software developer** and graduate from **Linköping University** with a **Bachelor’s degree in Programming**.  
+I operate at the intersection of **discipline, creativity, and engineering**, balancing life as both an **athlete** and a **builder of digital systems**.
 
-My main focus is **web development**, but I’m deeply driven by curiosity:
-exploring new technologies, experimenting with ideas, and building **custom solutions** instead of default ones.
-I believe in **learning by creating**, and I enjoy pushing boundaries between performance, design, and functionality.
+Web development is my main arena, but I don’t like boxes.  
+I explore new technologies, experiment constantly, and design **my own solutions instead of default ones**.  
+What drives me is simple: understanding systems deeply and building things that actually work.
 
-> *"Build systems. Build discipline. Build ideas. Build impact."*
+> *Build systems. Build discipline. Build ideas. Build impact.*
 
 ---
 
 ## 🧠 Core Skills & Technologies
 
 ### 🧑‍💻 Programming Languages
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
 ### 🌐 Frameworks & Libraries
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,meteor" />
 </p>
 
 ### 🛠 Tools & Environment
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,github" />
 </p>
@@ -66,40 +62,9 @@ I believe in **learning by creating**, and I enjoy pushing boundaries between pe
 ## 🏗 Philosophy
 
 ```txt
-• Build real systems
-• Solve real problems
-• Design scalable solutions
-• Stay physically disciplined
-• Stay mentally sharp
-• Learn continuously
-```
-
----
-
-## 🧭 Focus Areas
-
-* 🌐 Full-stack Web Development
-* ⚙️ System Design & Architecture
-* 🧠 Problem Solving & Automation
-* 🔬 Experimental Projects
-* 🛠 Custom Tooling
-* 🚀 Scalable Applications
-
----
-
-## 🤝 Let’s Connect
-
-<p align="left">
-  <a href="https://github.com/artisenpaiii">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
-</p>
+Build real systems
+Solve real problems
+Design for scale
+Train discipline daily
+Stay sharp mentally
+Never stop learning
