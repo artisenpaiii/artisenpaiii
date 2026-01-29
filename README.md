@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bryan+Sigaran;Software+Developer;Web+Engineer;Athlete+%7C+Programmer;Builder+of+Digital+Solutions" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00F7FF">Bryan Sigaran</span></h1>
-
 <p align="center">
   <b>🎓 Graduate – Linköping University</b><br>
   <b>💻 Software Developer | 🌍 Web Engineer | 🏋️ Athlete</b>
